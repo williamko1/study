@@ -1,0 +1,2 @@
+# study
+private study path
